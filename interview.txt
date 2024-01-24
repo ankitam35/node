@@ -1,4 +1,5 @@
 1. Node is single threaded or multithreaded?
 2. Is node console and browser consoles are same?
 3. Status Code like 200, 201, 404 etc.
-4.
+4. Can we access any folder out side of environment where we are running node? No as this acts as server we can get data from this but not outside of environment
+5. 

@@ -6,7 +6,7 @@ if (!fs.existsSync(dirPath)) {
     fs.mkdirSync(dirPath);
 }
 
-for (let i = 1; i <= 20; i++) {
+for (let i = 1; i <= 5; i++) {
     fs.writeFileSync(`${dirPath}/${i}.txt`, i.toString());
 }
 
