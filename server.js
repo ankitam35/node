@@ -1,5 +1,6 @@
+// Creating a server.
 const http = require("http");
-const colors = require("colors")
+const colors = require("colors") // Color consoles
 
 const dataControl = (req, res) => {
     res.write("<h1>This is Ankit Mishra</h1>");
