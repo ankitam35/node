@@ -1,0 +1,2 @@
+1. Node is single threaded or multithreaded?
+2. Is node console and browser consoles are same?
