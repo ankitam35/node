@@ -9,3 +9,10 @@ if (!fs.existsSync(dirPath)) {
 for (let i = 1; i <= 20; i++) {
     fs.writeFileSync(`${dirPath}/${i}.txt`, i.toString());
 }
+
+
+fs.readdir(dirPath, (err, files) => {
+    files.forEach(item => {
+        console.log("This is file name ", item)
+    })
+})
