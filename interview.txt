@@ -1,5 +1,6 @@
-1. Node is single threaded or multithreaded?
+1. Node is single threaded or multithreaded? Single Threaded
 2. Is node console and browser consoles are same?
-3. Status Code like 200, 201, 404 etc.
+3. Status Code like 200, 201, 404 etc. 
 4. Can we access any folder out side of environment where we are running node? No as this acts as server we can get data from this but not outside of environment
-5. 
+5. What is Buffer? Ans: Temprary memory required by Node to perform operations
+6. What is async operations in node js?
