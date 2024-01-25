@@ -4,3 +4,4 @@
 4. Can we access any folder out side of environment where we are running node? No as this acts as server we can get data from this but not outside of environment
 5. What is Buffer? Ans: Temprary memory required by Node to perform operations
 6. What is async operations in node js?
+7. Architecture of Node JS ? Ans: Event Loop concept (Node API)
